@@ -1,1 +1,0 @@
-Preliminary Results: Training Acc = 93.6%, Val Acc = 94.7%. Precision = 0.944, Recall = 0.962, F1 = 0.953. Curves suggest limited overfitting.
